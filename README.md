@@ -91,32 +91,10 @@ End-to-end time series forecasting pipeline for stock price prediction. Leverage
 
 ---
 
-## 💼 Experience Snapshot
-
-| Period | Role | Company |
-|--------|------|---------|
-| 2024 – 2025 | **Gen AI Developer** (Freelance) | 6sideddice, UK |
-| 2024 | Data Science / NLP Intern | Data Glacier (Virtual) |
-| 2020 – 2021 | Healthcare Recruiter (US) | Genie Healthcare |
-| 2018 – 2020 | Customer Service Representative | HCL Technologies |
-
----
-
 ## 🎓 Education
 
 🎓 **MSc Artificial Intelligence** — University of Essex, UK  
 🎓 **BE Electrical & Electronic Engineering** — Loyola Institute of Technology, Chennai
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jeffrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJEEEFFFF&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJEEEFFFF&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
