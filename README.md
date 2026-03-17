@@ -13,7 +13,7 @@
 
 *Turning large language models into production-ready, context-aware systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](open:(https://www.linkedin.com/in/jeffrey-joseph-a2868518b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-joseph-a2868518b/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffreyjoseph21506@gmail.com)
 
 </div>
