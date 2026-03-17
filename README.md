@@ -102,6 +102,4 @@ End-to-end time series forecasting pipeline for stock price prediction. Leverage
 
 *📍 Chennai, India · Open to AI/ML roles globally*
 
-![Visitors](https://visitor-badge.liteflabs.io/badge?page_id=JJEEEFFFF.JJEEEFFFF)
-
 </div>
