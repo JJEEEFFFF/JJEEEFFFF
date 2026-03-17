@@ -113,8 +113,8 @@ End-to-end time series forecasting pipeline for stock price prediction. Leverage
 
 <div align="center">
 
-![Jeffrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Jeffrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJEEEFFFF&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJEEEFFFF&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -124,6 +124,6 @@ End-to-end time series forecasting pipeline for stock price prediction. Leverage
 
 *📍 Chennai, India · Open to AI/ML roles globally*
 
-![Visitors](https://visitor-badge.liteflabs.io/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitors](https://visitor-badge.liteflabs.io/badge?page_id=JJEEEFFFF.JJEEEFFFF)
 
 </div>
