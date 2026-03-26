@@ -1,6 +1,6 @@
 <div align="center">
 
-#JEFFREY JOSEPH
+# JEFFREY JOSEPH
 
 ### 🤖 AI/ML Engineer · RAG Architect · LLM Systems Builder
 
